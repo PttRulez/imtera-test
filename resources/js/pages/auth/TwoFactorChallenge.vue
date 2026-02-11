@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import InputError from '@/components/form-elements/InputError';
+import InputError from '@/components/form-elements/InputError.vue';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import {
