@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:qna.habr.com)",
+      "WebFetch(domain:zenno.club)",
+      "WebFetch(domain:github.com)",
+      "Bash(gh api:*)",
+      "WebSearch",
+      "WebFetch(domain:habr.com)",
+      "WebFetch(domain:xmldatafeed.com)",
+      "WebFetch(domain:helperbyte.com)",
+      "WebFetch(domain:www.planetaexcel.ru)"
+    ]
+  }
+}
